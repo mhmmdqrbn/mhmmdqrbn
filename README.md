@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mhmmdqrbn
 - 👀 I’m interested in web
-- 🌱 I’m currently learning Python and SQL
+- 🌱 I’m currently learning Python,Java and SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
